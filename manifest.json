@@ -1,0 +1,8 @@
+{
+  "name": "SENQUARA E-BOOK",
+  "short_name": "SENQUARA E-BOOK",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080b18",
+  "theme_color": "#8b7cff"
+}
