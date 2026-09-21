@@ -1,0 +1,10 @@
+[
+  {
+    "id": "demo",
+    "title": "Welcome to SENQUARA E-BOOK",
+    "author": "SENQUARA",
+    "description": "Sample listing. Replace it only with a book you are legally allowed to publish.",
+    "file": "books/sample.pdf",
+    "rights": "OWNED / DEMO"
+  }
+]
